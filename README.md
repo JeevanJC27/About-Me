@@ -52,7 +52,7 @@
 
 | Title | Platform | Date |
 |-------|----------|------|
-| Data Science Certificate | Maven Analytics | - |
+| Data Science Certificate | Odin School | - |
 | Deloitte Data Analytics Simulation | Forage | June 2025 |
 | [View all Certifications](https://www.linkedin.com/in/jeevanjc27/details/certifications/) |
 
