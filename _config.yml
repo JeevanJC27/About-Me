@@ -1,0 +1,5 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+  - jekyll-remote-theme  # enables the use of remote themes
+title: Jeevan C
+description: Turning Data into Insights
